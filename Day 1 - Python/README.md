@@ -1,4 +1,4 @@
-# Advent Of Code - Day 1
+# Advent Of Code - Day 1 - Python
 
 ## How To Run
 
