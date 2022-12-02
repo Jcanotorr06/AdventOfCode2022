@@ -26,7 +26,7 @@ defmodule RockPaperSizors do
     end)
     total = Enum.sum(scores)
 
-    IO.puts("Total score: #{total}")
+    IO.puts("Total score Part#1: #{total}")
   end
 
   # Rock = A
@@ -55,8 +55,9 @@ defmodule RockPaperSizors do
     end)
     total = Enum.sum(scores)
 
-    IO.puts("Total score: #{total}")
+    IO.puts("Total score Part#2: #{total}")
   end
 end
 
+RockPaperSizors.play1(input)
 RockPaperSizors.play2(input)
