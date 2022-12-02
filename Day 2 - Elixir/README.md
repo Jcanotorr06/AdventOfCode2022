@@ -1,4 +1,4 @@
-# Advent Of Code - Day 2
+# Advent Of Code - Day 2 - Elixir
 
 ## How To Run
 
