@@ -6,27 +6,26 @@ The list goes as follows (Order will be updated along the way)
 
 - [x] ~Python~
 - [x] ~Elixir~
-- [ ] Javascript/ Typescript
-- [ ] Java
-- [ ] C#
-- [ ] C
-- [ ] C++
-- [ ] Rust
+- [x] ~Julia~
+- [ ] Kotlin
 - [ ] Go
 - [ ] Dart
-- [ ] PHP
+- [ ] Rust
 - [ ] Lua
-- [ ] Kotlin
 - [ ] Ruby
-- [ ] Carbon
-- [ ] Scratch
 - [ ] Scala
-- [ ] Julia
-- [ ] Swift
-- [ ] F#
-- [ ] Haskell
-- [ ] Elm
-- [ ] OCaml
+- [ ] C#
+- [ ] Carbon
 - [ ] V
-- [ ] Nim
+- [ ] F#
+- [ ] C
+- [ ] C++
+- [ ] Java
 - [ ] Crystal
+- [ ] Nim
+- [ ] OCaml
+- [ ] Haskell
+- [ ] Swift
+- [ ] Elm
+- [ ] PHP
+- [ ] Typescript
