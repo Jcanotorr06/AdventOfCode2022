@@ -7,7 +7,7 @@ The list goes as follows (Order will be updated along the way)
 - [x] ~Python~
 - [x] ~Elixir~
 - [x] ~Julia~
-- [ ] Kotlin
+- [x] ~Kotlin~
 - [ ] Go
 - [ ] Dart
 - [ ] Rust
