@@ -8,7 +8,7 @@ The list goes as follows (Order will be updated along the way)
 - [x] ~Elixir~
 - [x] ~Julia~
 - [x] ~Kotlin~
-- [ ] Go
+- [x] ~Go~
 - [ ] Dart
 - [ ] Rust
 - [ ] Lua
