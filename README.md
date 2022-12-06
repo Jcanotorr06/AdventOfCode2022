@@ -9,7 +9,7 @@ The list goes as follows (Order will be updated along the way)
 - [x] ~Julia~
 - [x] ~Kotlin~
 - [x] ~Go~
-- [ ] Dart
+- [x] ~Dart~
 - [ ] Rust
 - [ ] Lua
 - [ ] Ruby
