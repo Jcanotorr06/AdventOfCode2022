@@ -10,7 +10,7 @@ The list goes as follows (Order will be updated along the way)
 - [x] ~Kotlin~
 - [x] ~Go~
 - [x] ~Dart~
-- [ ] Rust
+- [x] ~Rust~
 - [ ] Lua
 - [ ] Ruby
 - [ ] Scala
