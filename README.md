@@ -11,7 +11,7 @@ The list goes as follows (Order will be updated along the way)
 - [x] ~Go~
 - [x] ~Dart~
 - [x] ~Rust~
-- [ ] Lua
+- [x] ~Lua~
 - [ ] Ruby
 - [ ] Scala
 - [ ] C#
